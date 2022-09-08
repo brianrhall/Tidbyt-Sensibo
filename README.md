@@ -4,7 +4,7 @@
 
 The applet displays the Sensibo logo on the left, followed by the room names and temperatures. You can set a *hot temp* limit (default is 74f) so the number turns red if at or above the threshold. Degrees are in farenheit by default but can comment out the conversions if you want Celcius. The current layout is limited to five rooms.
 
-| Room Temperatures | Hot Temp |
+| Room Temp | Hot Temp |
 :-------------------------:|:-------------------------:
 | ![Alt](./sensibo1.jpg "room temperatures") | ![Alt](./sensibo2.jpg "latest video") |
 
